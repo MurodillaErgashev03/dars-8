@@ -59,7 +59,7 @@
 
     @media screen and (max-width: 770px) {
         .site-footer__container {
-            width: 688px;
+            max-width: 688px;
             height: 270px;
             flex-direction: column;
             text-align: center;
@@ -85,7 +85,7 @@
         
         .site-footer__container {
             margin-top: 120px;
-            width: 327px;
+            max-width: 327px;
             height: 346px;
             flex-direction: column;
             text-align: center;

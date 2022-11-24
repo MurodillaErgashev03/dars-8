@@ -56,11 +56,13 @@
     }
 
     .commit__container {
+        margin-bottom: 400px;
         padding: 0 40px;
     }
 
     .commit__title {
-        width: 286px;
+    
+        max-width: 286px;
         font-size: 32px;
         line-height: 48px;
     }
